@@ -13,7 +13,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Kanishka — Voice Chat",
+  title: "Kanishka Joshi - Voice Chat",
   description:
     "Premium interactive voice chat experience with Kanishka. Start a live session now.",
 };
